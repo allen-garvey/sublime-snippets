@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[<header class="jumbotron">
+	<nav class="container">
+		<ul>
+			<a href="#"><li></li></a>
+			<a href="#"><li></li></a>
+			<a href="#"><li></li></a>
+		</ul>
+	</nav>
+</header>]]></content>
+	<tabTrigger>header1</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
