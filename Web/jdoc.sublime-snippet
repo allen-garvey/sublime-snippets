@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[/*
+ * ${1:}
+ * 
+ * @param 
+ * @return 
+ */
+]]></content>
+    <tabTrigger>jdoc</tabTrigger>
+    <scope>source.js, source.php</scope>
+    <description>Java doc</description>
+</snippet>
