@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[/*
+ * 
+ */
+(function(\$){
+    ${1:}
+})(jQuery);]]></content>
+    <tabTrigger>closure-jq</tabTrigger>
+    <scope>source.js</scope>
+    <description>jQuery closure</description>
+</snippet>
