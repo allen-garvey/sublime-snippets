@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[/*
+ * 
+ */
+(function(){
+    ${1:}
+})();]]></content>
+    <tabTrigger>closure</tabTrigger>
+    <scope>source.js</scope>
+    <description>closure</description>
+</snippet>
