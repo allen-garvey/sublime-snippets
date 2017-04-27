@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[${1:array}.map(function(item, index){
+	
+});]]></content>
+	<tabTrigger>map</tabTrigger>
+	<scope>source.js</scope>
+	<description>map native</description>
+</snippet>
