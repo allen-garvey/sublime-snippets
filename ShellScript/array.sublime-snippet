@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:arrayName}=( one two three )]]></content>
+    <tabTrigger>array</tabTrigger>
+    <scope>source.shell</scope>
+    <description>array declaration</description>
+</snippet>
