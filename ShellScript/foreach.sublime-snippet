@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[for i in "\${${1:arrayName}[@]}"
+do
+   : 
+   # do whatever on \$i
+done]]></content>
+    <tabTrigger>foreach</tabTrigger>
+    <scope>source.shell</scope>
+    <description>array foreach</description>
+</snippet>
