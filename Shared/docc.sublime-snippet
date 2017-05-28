@@ -4,6 +4,6 @@
 */
 ]]></content>
     <tabTrigger>docc</tabTrigger>
-    <scope>source.js, source.php, source.css, source.scss, source.c, source.objc, source.c++, source.objc++</scope>
+    <scope>source.js, source.php, source.css, source.sass, source.c, source.objc, source.c++, source.objc++</scope>
     <description>Doc comment</description>
 </snippet>
