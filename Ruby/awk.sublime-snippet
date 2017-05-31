@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[data = <<-eos
+${1:stuff}
+eos
+
+data.split("\n").each do |line|
+	puts "#{line}"
+end
+]]></content>
+    <tabTrigger>awk</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>split lines and print</description>
+</snippet>
