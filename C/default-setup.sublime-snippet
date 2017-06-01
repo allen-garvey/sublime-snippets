@@ -10,6 +10,6 @@ int main(int argc, char const *argv[]){
 }
 ]]></content>
     <tabTrigger>setupc</tabTrigger>
-    <scope>source.c, source.c++</scope>
+    <scope>source.c</scope>
     <description>Default C program setup</description>
 </snippet>

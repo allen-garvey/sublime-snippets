@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[#include <iostream>
+$1
+
+int main(int argc, char const *argv[]){
+	$2
+
+	return 0;
+}
+]]></content>
+    <tabTrigger>setupcpp</tabTrigger>
+    <scope>source.c++</scope>
+    <description>Default C++ program setup</description>
+</snippet>
