@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[@media screen and (${1:min}-width: ${2:500}px){
+	$3
+}]]></content>
+    <tabTrigger>media</tabTrigger>
+    <scope>source.css, source.sass</scope>
+    <description>mobile first media query</description>
+</snippet>
