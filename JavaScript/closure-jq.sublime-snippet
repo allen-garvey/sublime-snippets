@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[/*
- * 
+ * $1
  */
 (function(\$){
-    ${1:}
+    $2
 })(jQuery);]]></content>
     <tabTrigger>closure-jq</tabTrigger>
     <scope>source.js</scope>

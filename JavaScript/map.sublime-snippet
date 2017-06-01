@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[${1:array}.map(function(item, index){
-	
+	$2
 });]]></content>
 	<tabTrigger>map</tabTrigger>
 	<scope>source.js</scope>
