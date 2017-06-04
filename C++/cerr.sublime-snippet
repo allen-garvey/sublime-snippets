@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[std::cerr << $1 << std::endl;]]></content>
+    <tabTrigger>cerr</tabTrigger>
+    <scope>source.c++</scope>
+    <description>std::cerr</description>
+</snippet>
