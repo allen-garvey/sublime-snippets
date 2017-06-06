@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[import std.stdio;
+$1
+
+int main(string[] args){
+	$2
+
+	return 0;
+}
+]]></content>
+    <tabTrigger>setupd</tabTrigger>
+    <scope>source.d</scope>
+    <description>Default D program setup</description>
+</snippet>
