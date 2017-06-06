@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stderr.writef("${1:%s}", $2);]]></content>
+    <tabTrigger>stderr</tabTrigger>
+    <scope>source.d</scope>
+    <description>print to stderr</description>
+</snippet>
