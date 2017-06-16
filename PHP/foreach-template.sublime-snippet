@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[<?php foreach(${1:\$array} as ${2:\$key} ${3:=> \$value}): ?>
+	$4
+<?php endforeach; ?>]]></content>
+    <tabTrigger>foreach</tabTrigger>
+    <scope>text.html - source.php</scope>
+    <description>php foreach template</description>
+</snippet>
