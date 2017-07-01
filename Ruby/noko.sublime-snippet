@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[require 'nokogiri'
+
+html = Nokogiri::HTML(File.open("${1:index.html}")) do |config|
+  config.noblanks
+end
+
+${2:elements = html.css('div')}
+]]></content>
+    <tabTrigger>noko</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>parse HTML</description>
+</snippet>
