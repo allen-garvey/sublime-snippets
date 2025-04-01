@@ -1,0 +1,40 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+	"variables":
+	{
+	},
+	"rules":
+	[
+		{
+			"class": "sidebar_container",
+			"layer0.tint": "black",
+		},
+		{
+			"class": "sidebar_tree",
+			"dark_content": true,
+		},
+		{
+			"class": "sidebar_heading",
+			"font.size": 22,
+			"color": "white",
+		},
+		{
+			"class": "sidebar_label",
+			"font.size": 22,
+			"color": "#bbb",
+		},
+		{
+			"class": "sidebar_label",
+			"parents": [{"class": "tree_row", "attributes": ["highlighted", "selected"]}],
+			"color": "#000"
+		},
+		{
+			"class": "icon_folder",
+			"layer0.tint": "#fff",
+		},
+		{
+			"class": "disclosure_button_control",
+			"layer0.tint": "#fff",
+		}
+	]
+}

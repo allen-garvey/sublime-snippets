@@ -1,8 +1,15 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
 {
-  "color_scheme": "Packages/User/user_monokai.tmTheme",
+  // "color_scheme": "Packages/User/user_monokai.tmTheme",
+  "color_scheme": "Nord.sublime-color-scheme",
   "dictionary": "Packages/Language - English/en_US.dic",
-  "font_face": "Monaco",
+  "font_face": "Noto Mono",
   "font_size": 22,
-  "ignored_packages": ["Vintage"],
-  "spell_check": true
+  "ignored_packages":
+  [
+    "Vintage",
+  ],
+  "spell_check": true,
+  "theme": "auto",
 }

@@ -1,0 +1,9 @@
+{
+	"globals": {
+		"background": "hsl(0,0%,10%)",
+		"gutter": "hsl(0,0%,0%)",
+		"gutter_foreground": "#5a5a5a",
+
+	},
+	
+}
